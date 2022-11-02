@@ -1,7 +1,14 @@
 <template>
-    <div><h1>index bitch</h1></div>
+    <div>
+        <svg-clip />
+    </div>
 </template>
 
 <script>
-export default {};
+import SvgClip from "../components/svg-clip.vue";
+export default {
+    components: { SvgClip },
+};
 </script>
+
+SvgClip
