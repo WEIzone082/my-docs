@@ -13,9 +13,11 @@
 </svg>
 ```
 
+-   Apply it to your content by referring to clip-path: url("#the id of shape")
+
+
 ## If not working
 -   Paste the original path to this site: https://codepen.io/leaverou/full/RmwzKv
 -   Copy the **absolute path**, paste it to some editor and replace the commas(,) with spaces
 -   Paste it to https://yoksel.github.io/relative-clip-path/ again. Should be working fine now
 
--   Apply it to your content by referring to clip-path: url("#the id of shape")
